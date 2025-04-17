@@ -11,3 +11,18 @@ Este proyecto es una práctica diseñada para aprender y aplicar GitFlow en un e
 3. Corregir errores en producción (`hotfix`).
 
 ¡Buena suerte! 🎉
+# Projecte Web - Pràctica GitFlow
+
+## Versió 1.0
+
+Funcionalitats incloses:
+- ✅ Header amb gradient (Desarrollador 1)
+- ✅ Secció "Acerca de" (Desarrollador 2)
+- ✅ Footer amb informació de contacte (Desarrollador 3)
+
+## Estructura del projecte
+- `index.html`: estructura principal de la web
+- `css/style.css`: estils CSS
+- `js/script.js`: scripts JavaScript
+- `img/logo.svg`: logotip
+

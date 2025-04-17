@@ -7,6 +7,14 @@ body {
     color: #333;
 }
 
+header {
+  background: linear-gradient(135deg, #ff6f61, #ffcc70);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+
 header, footer {
     background-color: #ff9100;
     color: rgb(211, 36, 196);
