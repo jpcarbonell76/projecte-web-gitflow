@@ -1,28 +1,39 @@
 # Mi Web con GitFlow
-Este proyecto es una práctica diseñada para aprender y aplicar GitFlow en un entorno de desarrollo.
-
-## Estructura del proyecto
-- `index.html`: Archivo principal con la estructura de la página.
-- `css/style.css`: Estilos para la página web.
-
-## Flujo de trabajo con GitFlow
-1. Crear ramas para cada funcionalidad (`feature`).
-2. Preparar una versión (`release`).
-3. Corregir errores en producción (`hotfix`).
-
-¡Buena suerte! 🎉
 # Projecte Web - Pràctica GitFlow
 
-## Versió 1.0
+## ✅ Versió 1.0.1
 
-Funcionalitats incloses:
-- ✅ Header amb gradient (Desarrollador 1)
-- ✅ Secció "Acerca de" (Desarrollador 2)
-- ✅ Footer amb informació de contacte (Desarrollador 3)
+Aquest projecte és una simulació de treball col·laboratiu amb GitFlow per desenvolupar una web bàsica.
 
-## Estructura del projecte
-- `index.html`: estructura principal de la web
-- `css/style.css`: estils CSS
-- `js/script.js`: scripts JavaScript
+### 📁 Estructura
+- `index.html`: pàgina principal
+- `css/style.css`: estils
+- `js/script.js`: scripts JS
 - `img/logo.svg`: logotip
+- `README.md`: documentació
+
+### ✨ Funcionalitats implementades
+- 🔸 Desarrollador 1: Header amb gradient de colors
+- 🔸 Desarrollador 2: Secció "Acerca de"
+- 🔸 Desarrollador 3: Footer amb informació de contacte
+
+### 🛠 Correccions
+- 🔹 Hotfix v1.0.1: correcció del correu electrònic mal escrit al footer
+
+### 🧪 GitFlow utilitzat
+- `main`: branca principal estable
+- `develop`: branca de desenvolupament
+- `feature/`: funcionalitats noves
+- `release/`: preparació de la versió estable
+- `hotfix/`: correcció d’errors crítics
+
+### 🏷️ Versions
+- `v1.0`: Versió estable amb funcionalitats
+- `v1.0.1`: Corregit error al footer
+
+---
+
+### 🔗 Repositori GitHub
+[https://github.com/jpcarbonell76/projecte-web-gitflow](https://github.com/jpcarbonell76/projecte-web-gitflow)
+
 
